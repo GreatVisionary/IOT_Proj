@@ -1,0 +1,40 @@
+iotproj\gpio.o: ../Core/Src/gpio.c
+iotproj\gpio.o: ../Core/Inc/gpio.h
+iotproj\gpio.o: ../Core/Inc/main.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
+iotproj\gpio.o: ../Core/Inc/stm32h7xx_hal_conf.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h
+iotproj\gpio.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h
+iotproj\gpio.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h743xx.h
+iotproj\gpio.o: ../Drivers/CMSIS/Include/core_cm7.h
+iotproj\gpio.o: D:\Program_Files (x86)\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+iotproj\gpio.o: ../Drivers/CMSIS/Include/cmsis_version.h
+iotproj\gpio.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+iotproj\gpio.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+iotproj\gpio.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+iotproj\gpio.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+iotproj\gpio.o: D:\Program_Files (x86)\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+iotproj\gpio.o: D:\Program_Files (x86)\keil5\ARM\ARMCC\Bin\..\include\math.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma_ex.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_mdma.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_cortex.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_fdcan.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash_ex.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_hsem.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c_ex.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h
+iotproj\gpio.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
